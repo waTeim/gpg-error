@@ -1,0 +1,7 @@
+pod "gpg-error", :path => "../gpg-error.podspec"
+
+target "Demo" do
+end
+
+target "DemoTests" do
+end
